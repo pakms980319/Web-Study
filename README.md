@@ -3,4 +3,4 @@
 https://pakms980319.tistory.com/
 <hr/>
 <h3><a href="https://github.com/pakms980319/Web-Study/tree/main/JPA">[JPA Study]</a></h3>
-:JPA 공부 및 실습 파일 저장
+<p>JPA 공부 및 실습 파일 저장</p>
